@@ -1,0 +1,32 @@
+{
+  "name": "cra-template-enterprise",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "enteprise",
+    "react-query",
+    "inversif",
+    "material-ui",
+    "mobx"
+  ],
+  "description": "Enterprise template for Create React App that you probably don't need",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benedyktdryl/create-react-app-enterprise.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/benedyktdryl/create-react-app-enterprise/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "dependencies": {}
+}
