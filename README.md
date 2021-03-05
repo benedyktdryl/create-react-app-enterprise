@@ -27,9 +27,9 @@ For more information, please refer to:
 
 ### Disclaimer
 
-First of all, if you want to get answer "why" something is used, please take a look at [Architecture Decisions Records](/ADR). I encourage you to keep this directory and use it to track also your own architecture diecisions ([Why I should do it?](https://github.com/joelparkerhenderson/architecture_decision_record#what-is-an-architecture-decision-record)).
+First of all, if you want to get answer "why" something is used, please take a look at [Architecture Decisions Records](/template/ADR). I encourage you to keep this directory and use it to track also your own architecture diecisions ([Why I should do it?](https://github.com/joelparkerhenderson/architecture_decision_record#what-is-an-architecture-decision-record)).
 
-Also, feel free to propose additional stuff. If you want to remove something, do it on your own after bootstrap.
+Also, feel free to propose additional stuff. If you want to remove something, do it on your own after bootstrap or fork this repo.
 
 ### List of used libraries
 
