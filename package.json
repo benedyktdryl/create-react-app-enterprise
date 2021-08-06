@@ -8,7 +8,7 @@
     "typescript",
     "enteprise",
     "react-query",
-    "inversif",
+    "inversify",
     "material-ui",
     "mobx"
   ],
